@@ -1,6 +1,4 @@
-This README file is tailored for your GitHub repository based on the Wheat Seed classification project you've built using Decision Trees.
 
----
 
 # Wheat Seed Classification using Decision Trees
 
