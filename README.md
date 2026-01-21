@@ -77,6 +77,3 @@ jupyter notebook decision-tree-classification-on-wheat-seed-dataset.ipynb
 
 
 
----
-
-Would you like me to help you write a "Conclusion" section based on the specific accuracy results from your notebook?
